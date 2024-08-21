@@ -1,8 +1,23 @@
-# React + Vite
+# ReactReduxCounter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple counter application built with React and Redux Toolkit. This project demonstrates the use of state management with Redux in a React application.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the live demo of this project [here](https://attamishwani.github.io/ReactReduxCounter/).
+
+## Features
+
+- **React**: A popular JavaScript library for building user interfaces.
+- **Redux Toolkit**: Simplifies Redux usage and improves development experience.
+- **Bootstrap**: Styling framework for responsive design.
+- **Vite**: Fast build tool for modern web development.
+
+## Installation
+
+To get started with this project locally, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/AttaMishwani/ReactReduxCounter.git
