@@ -1,7 +1,3 @@
-Here's the README with added emojis in text format:
-
----
-
 # ReactReduxCounter 🚀
 
 A simple counter application built with React and Redux Toolkit. This project demonstrates the use of state management with Redux in a React application. 🛠️
