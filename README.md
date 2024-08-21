@@ -57,6 +57,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, you can reach me at [atta.rehmanmishwani@gmail.com](mailto:atta.rehmanmishwani@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/atta-ur-rehman-mishwani-964a58317/).
 
----
-
-This should look great in your GitHub README.md file with all the emojis and formatting!
